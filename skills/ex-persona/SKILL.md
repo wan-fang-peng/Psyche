@@ -194,6 +194,7 @@ extool.py init --slug {slug} --base-dir ./exes
 - `prompts/scene_director.md` —— 情境调度
 - `prompts/session_summary.md` —— 会话小结
 - `INSTALL.md` —— 安装与手动安装
+- `DEV-GUIDE.md` —— 开发约定（路径自定位、解释器兼容、隐私约束、分发检查）
 - `LICENSE` —— MIT
 
 ## 隐私提醒

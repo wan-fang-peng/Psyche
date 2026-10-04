@@ -78,6 +78,10 @@ pip install Pillow
 
 也可以 `@ex-persona` 手动指定。
 
+> **想分享你自己做的 skill？** 见 [SHARE-GUIDE.md](SHARE-GUIDE.md)，
+> 里面写了 GitHub / zip / 市场三条路怎么走，以及 WorkBuddy 上两个**不能用**的
+> 常见做法（`npx skills add`、拖拽导入 SKILL.md）及其原因。
+
 ### 投喂什么
 
 按你手上有什么来，可混用、可跳过：
