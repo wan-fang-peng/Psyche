@@ -1,0 +1,23 @@
+{
+  "name": "ex-persona-marketplace",
+  "description": "开源 skill 索引：前任人格蒸馏。纯本地运行，无网络请求。",
+  "owner": {
+    "name": "小七 & 芙芙",
+    "email": ""
+  },
+  "metadata": {
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ex-persona",
+      "description": "把前任（或同事、老板、导师、朋友）从聊天记录、社交动态、照片 EXIF 蒸馏成可对话的 AI 人格。纯本地运行，无网络请求。",
+      "source": "./",
+      "version": "1.0.0",
+      "author": {
+        "name": "小七 & 芙芙"
+      },
+      "category": "生活效率"
+    }
+  ]
+}
