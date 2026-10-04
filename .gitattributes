@@ -1,0 +1,8 @@
+# 默认按文本处理，提交时统一为 LF，检出时保持 LF。
+# 避免 Windows 开发时产生 CRLF，导致 Linux/macOS 下 shell 与 Python 脚本异常。
+* text=auto eol=lf
+
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.sh text eol=lf
