@@ -2,7 +2,7 @@
   "name": "ex-persona-marketplace",
   "description": "开源 skill 索引：前任人格蒸馏。纯本地运行，无网络请求。",
   "owner": {
-    "name": "wanfa",
+    "name": "wan-fang-peng",
     "email": ""
   },
   "metadata": {
@@ -15,7 +15,7 @@
       "source": "./",
       "version": "1.0.0",
       "author": {
-        "name": "wanfa"
+        "name": "wan-fang-peng"
       },
       "category": "生活效率"
     }

@@ -25,7 +25,7 @@
 ### 方式一：直接安装（推荐）
 
 ```
-git clone https://github.com/wanfa/ex-persona-skill.git
+git clone https://github.com/wan-fang-peng/ex-persona-skill.git
 cd ex-persona-skill
 cp -r skills/ex-persona ~/.workbuddy/skills/
 ```
@@ -33,7 +33,7 @@ cp -r skills/ex-persona ~/.workbuddy/skills/
 Windows：
 
 ```powershell
-git clone https://github.com/wanfa/ex-persona-skill.git
+git clone https://github.com/wan-fang-peng/ex-persona-skill.git
 cd ex-persona-skill
 Copy-Item -Recurse skills\ex-persona $HOME\.workbuddy\skills\
 ```
