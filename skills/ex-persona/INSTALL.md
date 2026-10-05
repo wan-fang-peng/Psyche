@@ -5,16 +5,16 @@
 ### macOS / Linux / Git Bash
 
 ```bash
-git clone https://github.com/wan-fang-peng/ex-persona-skill.git
-cd ex-persona-skill
+git clone https://github.com/wan-fang-peng/Psyche.git
+cd Psyche
 cp -r skills/ex-persona ~/.workbuddy/skills/
 ```
 
 ### Windows PowerShell
 
 ```powershell
-git clone https://github.com/wan-fang-peng/ex-persona-skill.git
-cd ex-persona-skill
+git clone https://github.com/wan-fang-peng/Psyche.git
+cd Psyche
 Copy-Item -Recurse skills\ex-persona $HOME\.workbuddy\skills\
 ```
 

@@ -1,4 +1,4 @@
-# 前任人格蒸馏 · ex-persona
+# Psyche · 前任人格蒸馏
 
 把一个人从聊天记录里蒸馏出来，变成能对话的 AI 人格。
 
@@ -6,6 +6,8 @@
 争吵模式、依恋类型，然后用 ta 的语气跟你聊。
 
 **纯本地运行，所有脚本零网络请求，数据不出你的电脑。**
+
+> 仓库名 **Psyche**（普绪刻／灵魂），skill 本体名 **ex-persona**，安装目录用后者。
 
 ---
 
@@ -25,16 +27,16 @@
 ### 方式一：直接安装（推荐）
 
 ```
-git clone https://github.com/wan-fang-peng/ex-persona-skill.git
-cd ex-persona-skill
+git clone https://github.com/wan-fang-peng/Psyche.git
+cd Psyche
 cp -r skills/ex-persona ~/.workbuddy/skills/
 ```
 
 Windows：
 
 ```powershell
-git clone https://github.com/wan-fang-peng/ex-persona-skill.git
-cd ex-persona-skill
+git clone https://github.com/wan-fang-peng/Psyche.git
+cd Psyche
 Copy-Item -Recurse skills\ex-persona $HOME\.workbuddy\skills\
 ```
 
