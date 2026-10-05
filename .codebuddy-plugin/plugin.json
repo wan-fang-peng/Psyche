@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Distill an ex-partner (or colleague, boss, mentor, friend) into a conversational AI persona from chat history, social posts and photo EXIF. Purely local, no network calls. | 把前任（或同事、老板、导师、朋友）从聊天记录、社交动态、照片 EXIF 蒸馏成可对话的 AI 人格。纯本地运行，无网络请求。",
   "author": {
-    "name": "小七 & 芙芙",
+    "name": "wanfa",
     "email": ""
   },
   "homepage": {
-    "url": "https://github.com/your-name/ex-persona-skill",
+    "url": "https://github.com/wanfa/ex-persona-skill",
     "type": "github"
   },
   "license": "MIT",

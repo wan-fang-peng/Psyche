@@ -5,7 +5,7 @@
 ### macOS / Linux / Git Bash
 
 ```bash
-git clone https://github.com/your-name/ex-persona-skill.git
+git clone https://github.com/wanfa/ex-persona-skill.git
 cd ex-persona-skill
 cp -r skills/ex-persona ~/.workbuddy/skills/
 ```
@@ -13,7 +13,7 @@ cp -r skills/ex-persona ~/.workbuddy/skills/
 ### Windows PowerShell
 
 ```powershell
-git clone https://github.com/your-name/ex-persona-skill.git
+git clone https://github.com/wanfa/ex-persona-skill.git
 cd ex-persona-skill
 Copy-Item -Recurse skills\ex-persona $HOME\.workbuddy\skills\
 ```
