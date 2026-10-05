@@ -9,6 +9,10 @@
 
 > 仓库名 **Psyche**（普绪刻／灵魂），skill 本体名 **ex-persona**，安装目录用后者。
 
+**关键词**：WorkBuddy 技能 · Agent Skill · 前任人格 · 数字人格 · 人物分身 ·
+AI 角色复刻 · 聊天记录分析 · 微信记录解析 · 情感疗愈 · 赛博分身 ·
+distill ex into AI persona · character AI from chat history
+
 ---
 
 ## 这个 skill 适合谁
